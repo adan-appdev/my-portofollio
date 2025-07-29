@@ -1,0 +1,56 @@
+
+body {
+  
+  background-color: #706c6c;
+  line-height: 1.6;
+}
+
+header {
+  background: #333;
+  color: #fff;
+  text-align: center;
+}
+
+.awalan{
+  background: #fff;
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+
+.Hobi {
+  background-color: #e9e9e9;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+ .hubungi {
+  background: #fff;
+  margin: 20px 0;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+
+footer {
+  background: #222;
+  text-align: center;
+  padding: 15x;
+  margin-top: 20px;
+}
+
+a{
+  color: #e9e9e9;
+  font-style: italic;
+}
